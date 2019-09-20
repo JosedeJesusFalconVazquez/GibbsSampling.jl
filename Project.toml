@@ -1,0 +1,13 @@
+name = "GibbsSampling"
+uuid = "4a447d95-a5d5-43f4-9e6f-eb82625d5b1b"
+authors = ["Jose de Jesus <pepefv97@ciencias.unam.mx>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
