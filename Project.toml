@@ -3,6 +3,11 @@ uuid = "4a447d95-a5d5-43f4-9e6f-eb82625d5b1b"
 authors = ["Jose de Jesus <pepefv97@ciencias.unam.mx>"]
 version = "0.1.0"
 
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
+
 [compat]
 julia = "1"
 
